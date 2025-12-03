@@ -6,7 +6,7 @@ export default function Herotitle() {
           Hi, I'm
         </h1>
         <h2 className="text-5xl md:text-5xl font-serif text-[#c27b57]">
-          Urban Uribe Hello
+          Urban Uribe Hyyy
         </h2>
       </div>
     </section>
